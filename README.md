@@ -76,6 +76,4 @@ Falls du neu hier bist, das System hatte schon einige Funktionen:
 - Jailsystem  
 - Sprache und Theme Einstellungen  
 
----
-
-Ich werde das MDT weiter ausbauen. Wenn dir Bugs auffallen oder du Ideen hast, einfach ein Issue auf GitHub erstellen.
+-
